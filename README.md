@@ -16,5 +16,5 @@ This section provides details on how to run the project in a user's computer.
 * Git SSH url of the project: git@github.com:Ektarai05/Molecular-structure.git
 ## Discription
 A folder named Final project will now be present in your local repository with molecularstructure.ipynb file, Inputoutput example file & Smile string sample pdf.
-* Now run the available jupyter file in jupyter notebook by referring the inputoutput example fie.
+* Now run the available jupyter file in jupyter notebook by referring the inputoutput example file.
 * Finally, you will get the result of desired input.
