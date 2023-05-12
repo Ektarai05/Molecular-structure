@@ -3,7 +3,7 @@ Objective: Draw a molecular structure of a given chemical compound using Smile s
 ## Table of contents
 * [Prerequisites](#Prerequisites)
 * [Setup] (#Setup)
-* [Features] (#Features)
+* [Discription] (#Discription)
 ## Prerequisites
 * Jupyter notebook used for project development.
 ## Setup
@@ -13,4 +13,8 @@ This section provides details on how to run the project in a user's computer.
 * Then use python get-pip.py,after a minute pip will be successfully installed.
 * Install rdkit package using the command pit install rdkit.
 * Git clone the project files from remote repository onto your local repository.
- Git SSH url of the project;
+ Git SSH url of the project;git@github.com:Ektarai05/Molecular-structure.git
+## Discription
+A folder named Final project will now present in your local repository with molecularstructure.ipynb file, Inputoutput example file & Smile string sample pdf.
+* Now run the available jupyter file in jupyter notebook by referring the inputoutput example fie.
+* Finally, you will get the result of desired input.
