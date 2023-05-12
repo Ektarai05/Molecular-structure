@@ -13,7 +13,7 @@ This section provides details on how to run the project in a user's computer.
 * Then use python get-pip.py,after a minute pip will be successfully installed.
 * Install rdkit package using the command pip install rdkit.
 * Git clone the project files from remote repository onto your local repository.
- Git SSH url of the project;git@github.com:Ektarai05/Molecular-structure.git
+ Git SSH url of the project: git@github.com:Ektarai05/Molecular-structure.git
 ## Discription
 A folder named Final project will now present in your local repository with molecularstructure.ipynb file, Inputoutput example file & Smile string sample pdf.
 * Now run the available jupyter file in jupyter notebook by referring the inputoutput example fie.
