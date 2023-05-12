@@ -2,8 +2,8 @@
 Objective: Draw a molecular structure of a given chemical compound using Smile string as an input.
 ## Table of contents
 * [Prerequisites](#Prerequisites)
-* [Setup] (#Setup)
-* [Discription] (#Discription)
+* [Setup](#Setup)
+* [Discription](#Discription)
 ## Prerequisites
 * Jupyter notebook used for project development.
 ## Setup
