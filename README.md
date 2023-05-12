@@ -11,7 +11,7 @@ This section provides details on how to run the project in a user's computer.
 * Make sure to have pip manager installed.
 * If not copy this link in your terminal curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 * Then use python get-pip.py,after a minute pip will be successfully installed.
-* Install rdkit package using the command pit install rdkit.
+* Install rdkit package using the command pip install rdkit.
 * Git clone the project files from remote repository onto your local repository.
  Git SSH url of the project;git@github.com:Ektarai05/Molecular-structure.git
 ## Discription
